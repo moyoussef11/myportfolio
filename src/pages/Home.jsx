@@ -130,7 +130,7 @@ const Home = () => {
         </div>
       </main>
       <section id="about" className="py-14 relative overflow-hidden">
-        <img src={slide5} alt="slide" className="absolute left-0" />
+        <img src={slide5} alt="slide" className="absolute left-0 z-0" />
         <img
           src={slide2}
           alt="slide"
@@ -472,7 +472,12 @@ const Home = () => {
         </div>
       </section>
       <section id="contact" className="py-14 relative overflow-hidden">
-        {" "}
+        <img src={slide5} alt="slide" className="absolute left-0 z-0" />
+        <img
+          src={slide2}
+          alt="slide"
+          className="absolute bottom-0 right-0 z-0"
+        />{" "}
         <div className="text-center relative z-10">
           <h4 className="text-5xl capitalize text-white font-bold w-fit mx-auto relative">
             Let's <span className="text-blue-600">Connect</span>
