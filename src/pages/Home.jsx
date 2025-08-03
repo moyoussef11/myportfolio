@@ -513,7 +513,7 @@ const Home = () => {
               />
               <div className="flex flex-col gap-2">
                 <h6 className="capitalize text-white font-semibold">Email</h6>
-                <span>mohmedyoussef472@gmail.com</span>
+                <span className="text-sm">mohmedyoussef472@gmail.com</span>
               </div>
             </div>
             <div className="flex gap-5 bg-[#0d1117] p-4 hover:bg-blue-600/20 duration-300 border border-gray-600 rounded-2xl">
@@ -535,7 +535,7 @@ const Home = () => {
                 <h6 className="capitalize text-white font-semibold">
                   Availability
                 </h6>
-                <span>Open for opportunities</span>
+                <span className="text-sm">Open for opportunities</span>
               </div>
             </div>
             <div>
