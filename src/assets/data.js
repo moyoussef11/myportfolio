@@ -34,6 +34,9 @@ import slide3 from "./Ellipse 5.png";
 import slide4 from "./Ellipse 8.png";
 import slide5 from "./Ellipse 10.png";
 import education from "./edu.png";
+import libraryNet from "./library net.png";
+import business from "./business .png";
+import bootstrapProject from "./bootstrap.png";
 
 export const projects = [
   {
@@ -41,8 +44,8 @@ export const projects = [
     title: "SureFire Bio Website",
     image: SureFire,
     desc: "SureFire Bio landing page built with React.js and Tailwind CSS, featuring smooth scroll animations with Framer Motion and fully responsive, reusable components. Optimized for fast performance and mobile-first design.",
-    demo: "https://surefire-bio.netlify.app/",
-    repo: "",
+    demo: "https://dan-two-smoky.vercel.app/",
+    repo: "https://github.com/moyoussef11/DAN",
     skills: ["React.js", "Tailwind CSS", "Framer Motion."],
   },
   {
@@ -50,7 +53,7 @@ export const projects = [
     title: "SopDakt Store",
     image: SopDakt,
     desc: "E-commerce store built from Figma design using React.js and Tailwind CSS, with pixel-perfect UI, animated transitions via Framer Motion, and a responsive, reusable component structure optimized for all devices.",
-    demo: "https://sopdakt.netlify.app/",
+    demo: "https://sopdakt-eta.vercel.app/",
     repo: "https://github.com/moyoussef11/sopdakt",
     skills: ["React.js", "Tailwind CSS", "Framer Motion", "React icons"],
   },
@@ -79,7 +82,7 @@ export const projects = [
     title: "I_BOX E-commerce",
     image: IBOX,
     desc: "E-commerce platform built with React.js, Redux Toolkit, and Tailwind CSS, featuring secure user authentication, product/order management, and a full admin dashboard. Backend APIs were designed with JWT auth, modular structure, and complete CRUD operations for users, products, and categories.",
-    demo: "https://eco0mern.netlify.app/",
+    demo: "https://eco-client-three.vercel.app/",
     repo: "https://github.com/moyoussef11/eco_client",
     skills: [
       "React.js",
@@ -96,7 +99,7 @@ export const projects = [
     title: "Blog Application",
     image: BLOG,
     desc: "Full-stack blog application using React.js, Redux Toolkit, and Tailwind CSS with full CRUD functionality for posts, comments, and likes. Integrated MongoDB and Node.js backend with Axios for seamless API communication and dynamic user interaction.",
-    demo: "https://verdant-sprite-98e024.netlify.app/",
+    demo: "https://blog-client-mu-dusky.vercel.app/",
     repo: "https://github.com/moyoussef11/blogClient",
     skills: [
       "React.js",
@@ -113,7 +116,7 @@ export const projects = [
     title: "Doctor Apponitment",
     image: DOCTOR,
     desc: "Doctor appointment scheduling app built with React.js, Redux Toolkit, and Tailwind CSS, featuring secure JWT-based authentication and role management. Users can book, cancel, and manage appointments, while doctors can accept or decline requests through a well-structured API integrated via Axios.",
-    demo: "",
+    demo: "https://doctor-appoinment-client.vercel.app/",
     repo: "hhttps://github.com/moyoussef11/doctor_appoinment_server",
     skills: [
       "React.js",
@@ -130,7 +133,7 @@ export const projects = [
     title: "Jobs Application",
     image: JOP,
     desc: "Job application platform built with React.js, Redux Toolkit, and Tailwind CSS, featuring role-based access control and secure authentication. Includes full CRUD operations for job listings, with a Node.js/Express backend and MongoDB for managing users, jobs, and applications.",
-    demo: "",
+    demo: "https://jops-app.vercel.app/",
     repo: "https://github.com/moyoussef11/jopsApp",
     skills: [
       "React.js",
@@ -147,7 +150,7 @@ export const projects = [
     title: "Room Booking Application",
     image: ROOM,
     desc: "Room booking application built with React.js, Redux Toolkit, and Tailwind CSS, enabling users to book and manage reservations with role-based access. Integrated secure authentication via cookies, client-side routing with React Router, and full CRUD functionality using Axios.",
-    demo: "https://marvelous-smakager-4cb2e8.netlify.app/",
+    demo: "https://room-booking-opal.vercel.app/",
     repo: "https://github.com/moyoussef11/room-booking",
     skills: ["React.js", "Redux Toolkit", "React Bootstrap", "fetchAPI"],
   },
@@ -156,7 +159,7 @@ export const projects = [
     title: "amazon clone",
     image: AMAZON,
     desc: "Amazon clone built with React.js, React Hooks, Redux Toolkit, and Tailwind CSS, featuring dynamic routing with React Router and data fetching via Fetch API. Includes skeleton loading, product carousels, and a fully responsive UI replicating core Amazon features.",
-    demo: "https://amazoncloneeee.netlify.app/",
+    demo: "https://amazonclone-wine-one.vercel.app/",
     repo: "https://github.com/moyoussef11/amazonclone",
     skills: [
       "React.js",
@@ -172,7 +175,7 @@ export const projects = [
     title: "Restaurant Landing Page",
     image: RESTAURANT,
     desc: "Modern restaurant landing page built with React.js and Tailwind CSS, featuring a responsive, visually appealing design. Optimized for all devices and integrated with SEO tools to enhance online visibility and brand presence.",
-    demo: "https://graceful-manatee-dcee26.netlify.app/",
+    demo: "https://restaurants-olive-eight.vercel.app/",
     repo: "https://github.com/moyoussef11/Restaurants",
     skills: ["React.js", "tailwind css"],
   },
@@ -181,7 +184,7 @@ export const projects = [
     title: "ATOZ (Next project)",
     image: atoz,
     desc: "The website is built using the Next.js , which is a server-side rendered (SSR) React framework. Next.js provides high capability in delivering a fast and interactive user experience.",
-    demo: "https://nextprojectw.netlify.app/",
+    demo: "https://next-app-atoz.vercel.app/",
     repo: "https://github.com/moyoussef11/next-app-Atoz",
     skills: ["Next.js", "React.js", "react icons", "fetch api", "CSS pure"],
   },
@@ -190,9 +193,36 @@ export const projects = [
     title: "EMKAN website (company portfolio)",
     image: emkan,
     desc: "Emkan is a responsive company portfolio website built with React and Tailwind CSS. It showcases the company's services and information with modern UI/UX design.",
-    demo: "https://emkanweb.netlify.app/",
+    demo: "https://emkan-azure.vercel.app/",
     repo: "https://github.com/moyoussef11/Emkan",
     skills: ["React.js", "tailwind css"],
+  },
+  {
+    id: 13,
+    title: "LibertyNFTMarket website",
+    image: libraryNet,
+    desc: "Liberty NFT Market is a professional front-end web template built with HTML, CSS, and JavaScript, using Bootstrap 5. It is designed specifically for NFT platforms to showcase, create, and sell digital assets.",
+    demo: "https://liberty-nft-market-two.vercel.app/",
+    repo: "https://github.com/moyoussef11/LibertyNFTMarket",
+    skills: ["HTML", "CSS", "JAVASCRIPT"],
+  },
+  {
+    id: 14,
+    title: "Bootstrap project",
+    image: bootstrapProject,
+    desc: "Bootstrap Learning Platform is a polished front-end template crafted using HTML, CSS, JavaScript, and Bootstrap. It features a clean and intuitive layout ideal for educational or tutorial websites.",
+    demo: "https://bootstrapproject-gilt.vercel.app/",
+    repo: "https://github.com/moyoussef11/bootstrapproject",
+    skills: ["HTML", "CSS", "JAVASCRIPT", "Bootstrap"],
+  },
+  {
+    id: 15,
+    title: "Business Growth Template",
+    image: business,
+    desc: "Business Growth Template is a clean, modern front-end landing page built using HTML, CSS, and JavaScript. Designed to help business owners promote their services and generate leads, this template is visually appealing and user-friendly.",
+    demo: "https://business-ebon-pi.vercel.app/",
+    repo: "https://github.com/moyoussef11/Business",
+    skills: ["HTML", "CSS", "JAVASCRIPT"],
   },
 ];
 
@@ -204,7 +234,7 @@ export const experience = [
     workPlace: "Upwork",
     location: "Remote",
     date: "2025",
-    demo: "https://surefire-bio.netlify.app/",
+    demo: "https://dan-two-smoky.vercel.app/",
     details: [
       "Developed a modern landing page for SureFire Bio using React.js and Tailwind CSS.",
       "Implemented smooth scroll animations and visual transitions using Framer Motion",
@@ -219,7 +249,7 @@ export const experience = [
     workPlace: "Upwork",
     location: "Remote",
     date: "2025",
-    demo: "https://sopdakt.netlify.app/",
+    demo: "https://sopdakt-eta.vercel.app/",
     details: [
       "Converted a complete Figma design into a fully responsive and modern e-commerce store using React.js and Tailwind CSS.",
       "Ensured pixel-perfect implementation matching the original Figma layout.",
