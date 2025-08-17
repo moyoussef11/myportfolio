@@ -1,12 +1,49 @@
-# React + Vite
+# My Personal Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Live Site:** [Visit my portfolio](https://mohamed-youssef.netlify.app/)
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+##  About Me
 
-## Expanding the ESLint configuration
+Launched my updated personal portfolio to present myself to clients, collaborators, and companies. It showcases:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- A brief introduction  
+- The tools and technologies I use  
+- Highlights of my latest projects  
+- How to reach me  
+
+---
+
+##  Tech Stack
+
+- React.js (Frontend)
+- Tailwind CSS (Styling)
+- Responsive design optimized for all devices
+
+---
+
+##  Features
+
+- Modern and clean landing page  
+- Highlight of skills, projects, and contact information  
+- Designed for mobile, tablet, and desktop views  
+- Built to make a strong first impression
+
+---
+
+##  Deployment
+
+The portfolio is deployed live on Netlify and ready to share!
+
+---
+
+
+
+##  Contact Me
+
+Let’s connect if you’d like to collaborate or talk!
+
+- **Email:** mohmedyoussef472@gmail.com  
+- **LinkedIn:** [https://www.linkedin.com/in/mohamed-youssef11/](https://www.linkedin.com/in/mohamed-youssef11/)  
+- **Portfolio:** [moyoussef.dev](https://mohamed-youssef.netlify.app/)  
