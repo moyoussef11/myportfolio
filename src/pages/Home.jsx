@@ -111,7 +111,7 @@ const Home = () => {
 
             <a
               target="_blank"
-              href="https://drive.google.com/file/d/1a_A5pwtCfQNV83uh1HLwaxmWGLO_gDN6/view?usp=sharing"
+              href="https://drive.google.com/file/d/1PbDObBA3b1CJAvjBm8nbyqzzM1wWdYha/view"
               className="block text-center capitalize bg-black border border-gray-600 text-white px-4 py-3 rounded-xl hover:bg-white/20 hover:text-gray-200 hover:scale-95 duration-300"
             >
               CV / resume
